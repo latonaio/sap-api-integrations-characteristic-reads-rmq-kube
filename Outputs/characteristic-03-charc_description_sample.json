@@ -1,0 +1,32 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-characteristic-reads/SAP_API_Caller/caller.go#L72",
+	"function": "sap-api-integrations-characteristic-reads/SAP_API_Caller.(*SAPAPICaller).Characteristic",
+	"level": "INFO",
+	"message": [
+		{
+			"Delete_mc": false,
+			"Update_mc": false,
+			"CharcInternalID": "1",
+			"Language": "EN",
+			"CharcDescription": "Purchasing Group",
+			"ChangeNumber": "",
+			"ValidityStartDate": "",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
+			"CharcLastChangedDateTime": ""
+		},
+		{
+			"Delete_mc": false,
+			"Update_mc": false,
+			"CharcInternalID": "1",
+			"Language": "DE",
+			"CharcDescription": "Einkäufergruppe",
+			"ChangeNumber": "",
+			"ValidityStartDate": "",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
+			"CharcLastChangedDateTime": ""
+		}
+	],
+	"time": "2022-01-27T17:26:48+09:00"
+}
